@@ -1,0 +1,91 @@
+.color1 {
+  background-color: #f3eeea;
+}
+
+.color2 {
+  background-color: #ebe3d5;
+}
+
+.color3 {
+  background-color: #b0a695;
+}
+
+.color4 {
+  background-color: #776b5d;
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.highlighted-kategori {
+  height: 250px;
+}
+
+.kategori-motherboard {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/mobo-logo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-processor {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/cpu-logo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-memory {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/ram-logo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+
+.no-decoration:hover {
+  color: #ebe3d5;
+}
+
+.text-harga {
+  font-size: 20px;
+  color: black;
+}
+
+.image-box {
+  height: 250px;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+  color: white;
+}
+
+.banner-produk {
+  height: 30vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
